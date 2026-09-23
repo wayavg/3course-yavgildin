@@ -2,3 +2,7 @@
 @import 'fonts.css';
 @import 'layout.css';
 @import 'rps-game.css';
+
+.index-link {
+    font-size: 200px;
+}
